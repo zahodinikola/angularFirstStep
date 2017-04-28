@@ -1,0 +1,1 @@
+var riseTemperature = angular.module("temperatureIsRising", [])

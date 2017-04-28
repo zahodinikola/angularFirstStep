@@ -1,0 +1,2 @@
+# angularFirstStep
+simple AngularJS functionality
